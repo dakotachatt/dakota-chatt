@@ -19,3 +19,7 @@ Here's a subsection, I wonder what this looks like as well?
 <head>
     <p>Does this look like it should?</p>
 </head>
+
+### A portrait image
+
+![Something portrait like](https://cdn.cnn.com/cnn/interactive/2022/12/world/best-space-photos-2022/media/images/top2v.jpg)
